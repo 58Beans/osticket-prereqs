@@ -38,7 +38,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<p>
 <img src="https://i.imgur.com/WQKMD0e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
